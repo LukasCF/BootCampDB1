@@ -23,6 +23,3 @@ const a = 10
 
 
 
-
-![teste de igamens](https://i.ytimg.com/vi/3w-hECDDHPU/maxresdefault.jpg)
-
